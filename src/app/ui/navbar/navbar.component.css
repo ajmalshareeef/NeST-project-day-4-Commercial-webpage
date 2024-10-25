@@ -1,0 +1,12 @@
+li{
+    list-style: none;
+    cursor: pointer;
+}
+
+li:hover{
+    color: rgb(105, 37, 145);
+}
+nav{
+    background-color: blue;
+    color: yellow;
+}
